@@ -17,5 +17,5 @@ Anyone new to Cometitive Programming can refer to this [Link](https://ymodepalli
   <img src="https://contrib.rocks/image?repo=GVP-DS-Club/Cook-The-Code" />
 </a>
 
-
+<h1 align="center">Data Science Club</h1>
 <h4 align="center">Gayatri Vidya Parishad College of Engineering</h4>
