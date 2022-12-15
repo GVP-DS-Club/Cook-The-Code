@@ -8,8 +8,8 @@ Anyone new to Cometitive Programming can refer to this [Link](https://ymodepalli
 
 | S.No. | Topic | Contest Link
 |---|--------------|--------|
-|01. | [Round 1](/1st%20round) | [here](https://www.hackerrank.com/cook-the-code-1) |
-|02. | [Round 2](/2nd%20round) | [here](https://www.hackerrank.com/cook-the-code-2) |
+|01. | [Round 1](/1st%20round/Readme.md) | [here](https://www.hackerrank.com/cook-the-code-1) |
+|02. | [Round 2](/2nd%20round/Readme.md) | [here](https://www.hackerrank.com/cook-the-code-2) |
 
 
 ## Thanks to all the contributors 💖
